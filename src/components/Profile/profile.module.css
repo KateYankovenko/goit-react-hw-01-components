@@ -27,6 +27,7 @@ display: block;
 }
 .avatar {
   width: 260px;
+  margin-bottom: 20px;
     height: 260px;
     border-radius: 50%;
     background-color: rgb(159, 215, 248);
